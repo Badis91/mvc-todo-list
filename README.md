@@ -1,4 +1,6 @@
-IL fuat crée la base de données tels quel: 
+IL faut crée la base de données tels quel: 
+
+
 CREATE TABLE tasks (
     id INT AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
